@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgaze&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgaze&layout=compact&theme=github_dark)
 
 <!--
 **Devgaze/Devgaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
