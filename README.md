@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgaze&layout=compact&theme=github_dark)  
 
 </div-->
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=840&lines=Code.;Sail.;Repeat.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=840&lines=Code.;Sail.;Code.;Snowboard.;Repeat.)](https://git.io/typing-svg)
 
 
 <!--
